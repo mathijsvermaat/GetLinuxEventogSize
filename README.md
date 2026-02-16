@@ -183,13 +183,6 @@ sudo ./GetLogSizeforLinux.sh
 # Result: ~5.24 GB/day means ~157 GB/month
 ```
 
-## License
-
-[Specify your license here, e.g., MIT, GPL-3.0, etc.]
-
-## Support
-
-For issues, questions, or suggestions, please open an issue on GitHub.
 
 ## Related Resources
 
